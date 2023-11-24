@@ -1,0 +1,49 @@
+body{
+ background-image: url(cool-background.png);
+}
+.myHeader{
+    overflow: hidden;
+}
+.myHeader a{
+    float:right;
+    display: block;
+    text-align: center;
+    text-decoration: solid;
+    padding: 14px 16px;
+    color: white;
+    background-color: green;
+    border-radius: 10px;
+    margin-right: 2%;
+    margin-top: 0.7%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.intro h1{
+  
+    margin-right: 10%;
+    margin-left: 10%;
+}
+.myHeader a:hover{
+   
+    background-color: gray;
+    transition-duration: 0.3s;
+    border-radius: 13px;
+}
+.myHeader img{
+    width: 300px;
+    height: 70px;
+}
+.intro{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: small;
+   text-align: center;
+   margin-top: 4%;
+   color: rgb(44, 44, 68);
+}
+.intro img{
+   max-width: 80%;
+   margin-top: 1%;
+   border-radius: 20px;
+}
+#intro{
+    background-color: gray;
+}

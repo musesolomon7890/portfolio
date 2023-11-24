@@ -1,0 +1,103 @@
+.skills {
+    border-style: none;
+    border-radius: 20px;
+    background-color: lightgreen;
+    width: 380px;
+    height: 280px;
+    margin-top: 10%;
+    margin-left: 6%;
+   float: left;
+}
+.skills img{
+    width: 120px;
+    padding-left: 30%;
+}
+.skills p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 10px;
+}
+.skills:hover{
+    background-color: lightblue;
+}
+.css {
+    border-style: none;
+    border-radius: 20px;
+    background-color: lightgreen;
+    width: 380px;
+    height: 280px;
+    margin-top: 10%;
+    margin-left: 6%;
+   float: left;
+}
+.css img{
+    width: 120px;
+    padding-left: 30%;
+}
+.css p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 10px;;
+}
+.css:hover{
+    background-color: lightblue;
+}
+.js {
+    border-style: none;
+    border-radius: 20px;
+    background-color: lightgreen;
+    width: 380px;
+    height: 280px;
+    margin-top: 10%;
+    margin-left: 6%;
+    float: left;
+    
+}
+.js img{
+    width: 120px;
+    padding-left: 30%;
+}
+.js p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 10px;;
+}
+.js:hover{
+    background-color: lightblue;
+}
+.notes{
+    text-align: center;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: -5%;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 6%;
+}
+.myHeader img{
+    width: 300px;
+    height: 70px;
+}
+.myHeader a:hover{
+    padding: 14px;
+    background-color: gray;
+    transition-duration: 0.3s;
+    border-radius: 13px;
+}
+.myHeader{
+    
+    overflow: hidden;
+}
+.myHeader a{
+    float:right;
+    display: block;
+    text-align: center;
+    text-decoration: solid;
+    padding: 14px 14px;
+    color: white;
+    background-color: green;
+    border-radius: 10px;
+    margin-right: 2%;
+    margin-top: 0.7%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#skills{
+    background-color: gray;
+}
